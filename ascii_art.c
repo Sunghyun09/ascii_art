@@ -9,9 +9,11 @@
 * or visit:
 *     https://pixlab.io/art
 */
+
 /*
 * An Implementation based on the paper:
-* > N. Markus, M. Fratarcangeli, I. S. Pandzic and J. Ahlberg, "Fast Rendering of Image Mosaics and ASCII Art", Computer Graphics Forum, 2015, http://dx.doi.org/10.1111/cgf.12597
+* > N. Markus, M. Fratarcangeli, I. S. Pandzic and J. Ahlberg,
+* "Fast Rendering of Image Mosaics and ASCII Art", Computer Graphics Forum, 2015, http://dx.doi.org/10.1111/cgf.12597
 */
 #include <string.h>
 #include <stdint.h>

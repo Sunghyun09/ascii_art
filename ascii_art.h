@@ -4,8 +4,11 @@
 * Version 1.3
 * For information on licensing, redistribution of this file, and for a DISCLAIMER OF ALL WARRANTIES
 * please contact:
+
 *       support@pixlab.io
 *       contact@pixlab.io
+
+
 * or visit:
 *     https://pixlab.io/art
 */
