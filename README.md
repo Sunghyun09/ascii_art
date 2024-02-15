@@ -1,4 +1,4 @@
-# ASCII Art
+# About ASCII Art
 ### Rea l-Time ASCII Art Rendering Library - Live demo: https://art.pixlab.io
 ### Integration Reference Guide: https://pixlab.io/art
 
