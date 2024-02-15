@@ -9,8 +9,8 @@
 * Otherwise you have to rely on an external library such as OpenCV to load the target images.
 *
 * If you get a compile-time error, it means that the `ascii_art.hex` model is missing.
-* Download it from: https://pixlab.io/art
-*/
+* Download it from: https://pixlab.io/art */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "ascii_art.h"
