@@ -45,7 +45,9 @@ int main(int argc, char **argv) {
 	AsciiArtRender(&sRender, zBlob, &width, &height, zText, 1);
 
 	/* Output the result */
-	fwrite(zText, sizeof(char), nBytes, stdout);
+	printf("\033[34m"); // Set text color to blue
+    fwrite(zText, sizeof(char), nBytes, stdout);
+	printf("\033[0m"); // Reset text color to default
 	/* zBlob[] hold the binary ASCII glyphs now */
 
 	/* Release memory */
